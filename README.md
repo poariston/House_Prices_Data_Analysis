@@ -1,3 +1,8 @@
+This github repository was cloned from ELi (instructor Flatiron)
+During a Study group. Dec 18, 2019.
+
+
+
 # House_prices
 Projects
 File descriptions
